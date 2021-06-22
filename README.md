@@ -4,10 +4,10 @@ A continous CI/CD MLOps pipeline
 ## Function
 
 1. Training a low-bandwidth ICM
-2. Streamlit web application
+2. Web application
 3. Automated script building
-4. Manual trigger for K8s
-5. Integrations
+4. Manual trigger for Azure K8s
+5. Verious Integrations
 6. CI/CD pipeline
 
 ## TO-DO
