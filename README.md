@@ -18,3 +18,6 @@ A continous CI/CD MLOps pipeline
 4. K8s Build Trigger
 5. Git automation
 6. Auto CI/CD
+4. Manual trigger for kK8s
+5. Integrations
+6. CI/CD pipeline
