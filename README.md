@@ -6,6 +6,6 @@ A continous CI/CD MLOps pipeline
 1. Training a low-bandwidth ICM
 2. Streamlit web application
 3. Automated script building
-4. Manual trigger for k8
+4. Manual trigger for kK8s
 5. Integrations
 6. CI/CD pipeline
