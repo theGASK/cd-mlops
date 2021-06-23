@@ -12,7 +12,7 @@ A continous CI/CD MLOps pipeline
 
 ## TO-DO
 
-1. IBeans Classifier (DONE)
+1. Image Classifier (mobilenet_v2/classification) (DONE)
 2. Streamlit app.py
 3. Auto Script
 4. K8s Build Trigger
